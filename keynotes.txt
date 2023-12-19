@@ -1,0 +1,63 @@
+============= ************* 18-12-2023 ******
+git bash commands
+
+1: 	git status
+
+2: 	git init	(initialize git in a folder)
+
+3:	git add --a 	/ git add . 	(all files)	/ git add index.html (only index.html)
+
+4: 	git commit -m "message"		
+
+5: 	git log 		(see all commits)
+
+
+6: 	rm -rf .git 		(revoke / remove / delete git repo)
+
+
+7: 	git clone <url of any repo>
+
+8:	pwd 		(present working directory)
+
+9: 	ls 		(list)
+
+
+10:	touch index.html		(linux command to create file )
+
+
+11:	touch .gitignore		(you can create a special file to ignore some files/folder to be tracked / added or anyother operations)
+
+	wirte in .gitignore 		dir/		or use 		/dir/		
+
+12: 	
+
+https://www.youtube.com/watch?v=87LrjX5xvFA&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=8	
+
+=============================================================
+Untracked >>	Unmodified (but tracked)	>> 	
+
+Modified 	>> 	(staged) 
+
+File status Lifecycle		
+
+
+
+
+
+=================================================
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFx0R8cqPf3EjSjleRpVcRnsN5Ftiltie0YKSjtrP7j9 mdxb.info@gmail.com
+
+
+create folder and file on desktop and push to github online
+-------------------------------------------------------
+
+create repo on github first with the same name as on local
+copy repo path and then push
+git remote add origin git@github.com....path
+
+check
+git remote -v
+
+then push
+git push -u origin main
+
