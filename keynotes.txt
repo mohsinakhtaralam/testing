@@ -29,9 +29,9 @@ git bash commands
 
 	wirte in .gitignore 		dir/		or use 		/dir/		
 
-12: 	git diff 		(compare stagging area with working area)
+12: git diff 		(compare stagged area with working area [that has modifed after stagging])
 
-13: git diff --staged					(previous commit with current stagging area)		
+13: git diff --staged					(compare previous commit with current stagging area)		
 
 
 https://www.youtube.com/watch?v=87LrjX5xvFA&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=8	
