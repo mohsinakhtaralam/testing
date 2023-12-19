@@ -37,7 +37,15 @@ git bash commands
 https://www.youtube.com/watch?v=87LrjX5xvFA&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=8	
 
 19-12-2023
-When file is present with modified tag in both areas (staged and modified )
+
+14: 	git commit -a -m "Direct Commit"		(all tracked files are commited directly without stagging[note: untracked files will not go ])
+
+15: 	git rm index.txt						(remove a file index.txt)
+
+15: 	git mv index.txt index.html				(rename index.txt to index.html)
+
+
+
 
 
 =============================================================
