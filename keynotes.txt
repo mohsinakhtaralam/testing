@@ -65,6 +65,9 @@ https://www.youtube.com/watch?v=Hxn3OguEMd4&list=PLu0W_9lII9agwhy658ZPA0MTStKUJT
 
 21: 	git checkout -- <file-name>			(if by mistake you modify a file and now you want to reset as it previous commit )
 
+22: 	git checkout -f 					(reverse all changes , )
+
+shift + Insert 			paste
 
 
 
