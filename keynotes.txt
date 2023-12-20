@@ -44,7 +44,14 @@ https://www.youtube.com/watch?v=87LrjX5xvFA&list=PLu0W_9lII9agwhy658ZPA0MTStKUJT
 
 15: 	git mv index.txt index.html				(rename index.txt to index.html)
 
+Note: Once a file is tracked , it will not be ignored by git, even if you put this file into .gitignore too.
+to ignore it , you have to untract it first 
 
+16: 	git rm --cached index.html 
+
+20-12-2023	
+
+https://www.youtube.com/watch?v=Hxn3OguEMd4&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=11
 
 
 
