@@ -53,6 +53,21 @@ to ignore it , you have to untract it first
 
 https://www.youtube.com/watch?v=Hxn3OguEMd4&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=11
 
+17:		git log -p -3			(only three commits)
+
+18: 	git log --stat			(a kind of summary of commits)
+
+19: 	git log --prety=online / git log --prety=short / git log --prety=full	(single line summary)
+
+20: 	git log --since=2.days git log --since=2.weeks / git log --since=2.months 	(last two days commits )
+
+21: 	git restore --staged file-name		(unstage a file )
+
+21: 	git checkout -- <file-name>			(if by mistake you modify a file and now you want to reset as it previous commit )
+
+
+
+
 
 
 =============================================================
