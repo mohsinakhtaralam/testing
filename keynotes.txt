@@ -92,7 +92,8 @@ after adding you can check remote by git remote ::::: 	Note: origin is the name 
 26:		git restore text.html 			(discard chagnes done in text.html i.e. modified but not staged=>
 										 it is like ctrl + Z , but remember dont this process dont have re-do :))
 
-
+===================== 21-12-2023 =====================
+https://www.youtube.com/watch?v=5e-DLY_spg0&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi&index=16
 
 
 
