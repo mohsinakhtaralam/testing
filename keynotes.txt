@@ -69,6 +69,26 @@ https://www.youtube.com/watch?v=Hxn3OguEMd4&list=PLu0W_9lII9agwhy658ZPA0MTStKUJT
 
 shift + Insert 			paste
 
+working with remote 
+
+23: 	Git remote 
+
+create a repo on github / or any other git hosting site and add into your existing local repo in your computer 
+
+24: 	git remote add origin git@github.com:mohsinakhtaralam/testing.git
+
+after adding you can check remote by git remote ::::: 	Note: origin is the name of online repo , you can have any other but it is convention
+
+
+23: 	Git remote -v
+
+24:		git push -u origin master 
+
+
+
+
+
+
 
 
 
