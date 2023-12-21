@@ -86,6 +86,12 @@ after adding you can check remote by git remote ::::: 	Note: origin is the name 
 
 
 
+25: 	git config --global alias.st status					(give an alias to a long word / command to get shorter command)
+
+
+26:		git restore text.html 			(discard chagnes done in text.html i.e. modified but not staged=>
+										 it is like ctrl + Z , but remember dont this process dont have re-do :))
+
 
 
 
